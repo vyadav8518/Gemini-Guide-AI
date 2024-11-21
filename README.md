@@ -1,4 +1,4 @@
-# 🤖 Gemini Chatbot
+# 🤖 Gemini Guide AI
 
 A web-based chatbot application powered by Google's Gemini AI, built with Flask.
 
