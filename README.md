@@ -84,6 +84,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📧 Contact
 
-Your Name - [Vicky Kumar](vyadav8518@gmail.com)
+Your Name - Vicky Kumar
 
-Project Link: [https://github.com/yourusername/gemini-chatbot](https://github.com/vyadav8518/gemini-chatbot.git)
+Project Link: https://github.com/vyadav8518/gemini-chatbot.git
