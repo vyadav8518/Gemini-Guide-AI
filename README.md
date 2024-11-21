@@ -21,7 +21,7 @@ A web-based chatbot application powered by Google's Gemini AI, built with Flask.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gemini-chatbot.git
+git clone https://github.com/vyadav8518/gemini-chatbot.git
 cd gemini-chatbot
 ```
 
